@@ -1,5 +1,15 @@
 # 🏦 SMIT Bank Management System
 
+## 🌐 Live Demo
+
+🚀 **Try the Live Application:**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smit-bank-management-system-cxzemlmaudwfmjxgwepyyq.streamlit.app/)
+
+👉 **Live URL:** https://smit-bank-management-system-cxzemlmaudwfmjxgwepyyq.streamlit.app/
+
+---
+
 A simple and interactive **Bank Management System** built with **Python** and **Streamlit**. This project allows users to create a bank account, deposit money, withdraw money, and check their account balance through a user-friendly web interface.
 
 ---
